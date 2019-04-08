@@ -1,6 +1,6 @@
 {
   "title": "Create k8s service",
-  "description": "How to dpeloy k8s service (loadbalancer, nodeport and clusterIP)",
+  "description": "How to deploy k8s service (loadbalancer, nodeport and clusterIP)",
   "difficulty": "intermediate",
   "details": {
     "steps": [

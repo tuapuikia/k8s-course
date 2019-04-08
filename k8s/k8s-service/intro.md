@@ -1,3 +1,2 @@
-How to deploy basic nginx with service (clusterIP).
-
+How to deploy k8s service with nginx as example.
 
