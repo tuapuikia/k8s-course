@@ -10,8 +10,6 @@ Verify pod and service are created.
 
 `kubectl get pod && kubectl get service`{{execute HOST1}}
 
-Please note, katacoda do not provide LoadBalancer service. But we can still access the internal service to verify the setup.
-
 The nginx now are accessible from external via worker node port.
 
 Before we can access the service, we need to locate our worker node IP

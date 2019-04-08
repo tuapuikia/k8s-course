@@ -4,7 +4,7 @@ Deploy nginx ingress via helm.
 
 Initialize helm tiller.
 
-`helm init`
+`helm init`{{execute HOST1}}
 
 `kubectl create clusterrolebinding add-on-cluster-admin --clusterrole=cluster-admin --serviceaccount=kube-system:default`{{execute HOST1}}
 
@@ -34,9 +34,9 @@ Validate out nginx services is serving via ingress controller
 
 Retrieve the nginx index.html
 
-`wget --header 'Host: example.com' my-ingress-nginx-ingress-controller`
+`wget --header 'Host: example.com' my-ingress-nginx-ingress-controller`{{execute HOST1}}
 
-`cat index.html`
+`cat index.html`{{execute HOST1}}
 
 Exit the busybox pod
 

@@ -35,4 +35,4 @@ spec:
     targetPort: 80
   selector:
     app: nginx-np
-  type: LoadBalancer
+  type: NodePort
