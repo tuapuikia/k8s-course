@@ -1,3 +1,3 @@
-Create k8s clusterIP service for nginx.
+How to deploy basic nginx with service (clusterIP).
 
-`kubectl apply nginx.yaml`{{execute}}
+

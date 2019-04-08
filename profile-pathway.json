@@ -2,7 +2,7 @@
     "courses": [
       {
         "title": "K8S meetup hands-on",
-        "description": "Lern how to deploy k8s service",
+        "description": "Learn how to deploy k8s service",
         "id": "k8s"
       }
     ]
