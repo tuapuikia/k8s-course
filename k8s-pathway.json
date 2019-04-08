@@ -5,8 +5,8 @@
     "courses": [
       {
         "course_id": "k8s-service",
-        "title": "Deploy nginx with default service",
-        "description": "Nginx with default clusterIP service"
+        "title": "Deploy nginx with k8s service",
+        "description": ""
       }
     ]
   }
