@@ -26,6 +26,10 @@
         {
           "file": "nginx.yaml",
           "target": "~/"
+        },
+        {
+          "file": "nginx-lb.yaml",
+          "target": "~/"
         }
       ],
     "finish": {
