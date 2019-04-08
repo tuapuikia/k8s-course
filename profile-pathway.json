@@ -1,4 +1,7 @@
 {
+    "title": "Deploy nginx with default service(clusterIP)",
+    "description": "Example of service deployment",
+    "icon": "fa-katacoda",
     "courses": [
       {
         "title": "K8S meetup hands-on",
