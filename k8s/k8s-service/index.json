@@ -15,8 +15,16 @@
       {
         "title": "Step 3",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      },
+      {
+        "title": "Step 5",
+        "text": "step5.md"
       }
-    ],
+   ],
     "intro": {
       "text": "intro.md",
       "courseData": "env_init.sh"
@@ -29,6 +37,14 @@
         },
         {
           "file": "nginx-lb.yaml",
+          "target": "~/"
+        },
+        {
+          "file": "nginx-np.yaml",
+          "target": "~/"
+        },
+        {
+          "file": "nginx-ingress.yaml",
           "target": "~/"
         }
       ],

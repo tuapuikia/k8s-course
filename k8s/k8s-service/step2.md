@@ -19,3 +19,8 @@ Verify nginx service is accessible.
 
 `wget nginx`{{execute HOST1}}
 `cat index.html`{{execute HOST1}}
+
+Exit the busybox pod
+
+`exit`{{execute HOST1}}
+
