@@ -1,0 +1,13 @@
+{
+    "title": "K8s Service deployment",
+    "description": "Example of how to deploy k8s service.",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "k8s-service",
+        "title": "Deploy nginx with default service",
+        "description": "Nginx with default clusterIP service"
+      }
+    ]
+  }
+  
